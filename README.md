@@ -1,2 +1,4 @@
 # analog_exchange
-This is a website were I'll showcase my analog photography skills and create a blog teaching others to do the same.
+This'll be a Front-end Web Development project where I'll create a website with a blog and newsletter capabilities. 
+
+### 
