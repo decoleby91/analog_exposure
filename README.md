@@ -30,3 +30,6 @@ Footer - CSS
 Blog post - HTML
 Blog post - CSS
 Media queries
+
+### freeCodeCamp GitHub Repository
+https://github.com/jlop007/FreeCodeCamp-NewsFlash
