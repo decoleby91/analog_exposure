@@ -39,3 +39,6 @@ https://www.youtube.com/watch?v=Aj7HLsJenVg&t=11s
 
 #### Remix Icons
 https://remixicon.com/
+
+##### Swiperjs
+https://swiperjs.com/
