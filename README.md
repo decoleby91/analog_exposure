@@ -33,3 +33,6 @@ Media queries
 
 ### freeCodeCamp GitHub Repository
 https://github.com/jlop007/FreeCodeCamp-NewsFlash
+
+#### YouTube Course
+https://www.youtube.com/watch?v=Aj7HLsJenVg&t=11s
