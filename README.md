@@ -36,3 +36,6 @@ https://github.com/jlop007/FreeCodeCamp-NewsFlash
 
 #### YouTube Course
 https://www.youtube.com/watch?v=Aj7HLsJenVg&t=11s
+
+#### Remix Icons
+https://remixicon.com/
